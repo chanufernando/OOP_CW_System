@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #a09dce;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+form {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  text-align: left;
+}
